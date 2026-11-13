@@ -1,0 +1,6 @@
+node_modules/
+spotify-frontend/node_modules/
+spotify-frontend/dist/
+.env
+.DS_Store
+*.log
